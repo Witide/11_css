@@ -1,0 +1,31 @@
+h1 {
+	color: #B0C4DE;
+    font-size: 35em;
+    font-family: "Comic Sans MS", cursive;
+    letter-spacing: 50px;
+}
+
+li {
+    color: 
+    font-size: 15em;
+    font-style: italic;
+}
+
+body {
+    background-color: #FF00FF;
+    color: #00FF00;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+a{
+    color: #A0C3ED;
+    font-size: 5em;
+    letter-spacing: 100px;
+}
+
+p {
+    color: red;
+    /*font-size: 10em;*/
+    letter-spacing: 150px;
+    font-variant: small-caps;
+}

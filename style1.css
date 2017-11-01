@@ -1,31 +1,48 @@
 h1 {
-	color: #B0C4DE;
-    font-size: 35em;
-    font-family: "Comic Sans MS", cursive;
-    letter-spacing: 50px;
+    color: white;
+    font-size: 10em;
+    font-family: "Verdana";
+    letter-spacing: 2px;
+    font-variant: small-caps;
+}
+
+h2 {
+    color: #B0C4DE;
+    font-size: 1.5em;
+}
+
+h3 {
+    color: #BEEEEF;
+    font-size: 1em;
+}
+
+ul {
+    list-style-type: upper-roman;
 }
 
 li {
-    color: 
-    font-size: 15em;
+    font-size: 4px;
     font-style: italic;
+    color: #123456;
 }
 
 body {
-    background-color: #FF00FF;
-    color: #00FF00;
-    font-family: "Comic Sans MS", sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: "Arial", sans-serif;
 }
 
 a{
     color: #A0C3ED;
     font-size: 5em;
-    letter-spacing: 100px;
+    letter-spacing: 2px;
+    background: #101010;
 }
 
 p {
-    color: red;
-    /*font-size: 10em;*/
-    letter-spacing: 150px;
-    font-variant: small-caps;
+    color: yellow;
+    font-size: 1.5em;
+    letter-spacing: 1px;
+    font-weight: bold;
+    padding: 15px;
 }

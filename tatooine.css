@@ -1,0 +1,38 @@
+h1 {
+	color: #602016;
+    font-size: 5em;
+    font-family: "Palatino";
+    letter-spacing: 5px;
+    font-variant: small-caps;
+}
+
+li {
+    color: #010310;
+    font-size: 0.5em;
+}
+
+h2, h3 {
+    color: brown;
+}
+
+ul {
+    color: #123456;
+}
+
+a{
+    color: #cc9933;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+body {
+    background-color: beige;
+    font-family: "Georgia";
+}
+
+p {
+    color: #64280a;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+}

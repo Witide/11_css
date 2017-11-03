@@ -1,0 +1,55 @@
+body {
+    background-color: cornflowerblue;
+    
+}
+
+h2, h3 {
+    color: aliceblue;
+    font-size: 3em;
+    font-variant: small-caps;
+}
+
+div {
+    padding-left: 1em;
+    margin-left: 1px;
+}
+
+.extreme {
+    font-size: 30px;
+    color: darkblue;
+    background-color: #BEEEEF;
+    text-align: center;
+}
+
+.navzone {
+    font-style: italic;
+    font-family: Georgia, serif;
+}
+
+.navzone li {
+    font-size: 2em;
+    padding-left: 50px;
+    margin-left: 100px;
+}
+
+.content {
+    font-size: 15px;
+}
+
+.prose {
+    font-family: "Courier";
+    color: #B0CADE;
+    font-size: 20px;
+}
+
+#head1 {
+    font-family: "Lucida Console", sans-serif;
+    text-transform: capitalize;
+}
+
+#tehlulz {
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: capitalize;
+}
